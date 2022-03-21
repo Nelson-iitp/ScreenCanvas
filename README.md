@@ -78,8 +78,8 @@ Shift + Keys.C     * itool.ScreenCopy for copying a rectangular region on screen
 Keys.Delete        * Deletes selected region
 Control + Keys.X   * Cuts selected region
 Control + Keys.C   * Copies selected region (only when the _selecting flag is on)          
-Control + Keys.V   * itools.paste for pasting image from clipboard (maintain size, uses one point to paste)
-Shift + Keys.V     * itools.pasteR for pasting image from clipboard (re-sizeable, uses 2 points to paste)
+Control + Keys.V   * Paste image from clipboard (maintain size, uses one point to paste)
+Shift + Keys.V     * Paste image from clipboard (re-sizeable, uses 2 points to paste)
 ```
 
 
