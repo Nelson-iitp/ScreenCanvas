@@ -33,6 +33,18 @@ ScreenCanvas is stand-alone, no installation required. You can compile from sour
 	* ![3](mdsrc/3.png)
 ___
 
+## Mouse Controls
+
+```
+Double-Click Icon	:	Toggle Canvas Overlay
+Righ-Click Icon		:	Alt-menu
+Middle-Click Icon	:	Clear Canvas
+
+Left-Click Canvas	:	Selected itool or function
+Right-Click Canvas	:	Toggle Pallete and itools
+Middle-Click Canvas	:	Pan to point (view-port)
+Middle-Drag Canvas	:	Pan View
+```
 
 ## Keyboard Controls
 
