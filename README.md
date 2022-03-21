@@ -99,11 +99,11 @@ Shift + Keys.V		* Paste image from clipboard (re-sizeable, uses 2 points to past
 ### Import/Export
 
 ```
-Keys.C		Export whatever(image) is on the clipboard  to disk using a save file dialog
+Keys.C	Export whatever(image) is on the clipboard  to disk using a save file dialog
 
-Keys.V		Import whatever is in the clipboard
-		if there are files(images) in the clipboard (copied files) then import them (perform drag-drop)
-		if there is an Image in the clipboard, paste it on canvas and resize canvas to image size
+Keys.V	Import whatever is in the clipboard
+	if there are files(images) in the clipboard (copied files) then import them (perform drag-drop)
+	if there is an Image in the clipboard, paste it on canvas and resize canvas to image size
 ```
 
 
