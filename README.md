@@ -53,24 +53,24 @@ Middle-Drag Canvas	:	Pan View
 ### General Controls
 
 ```
-Escape        If canvas is ON then switch it OFF, otherwise quit app
-F2            Shows recently handled files, `ctrl+C` clear recent list
-F5            Refresh Canvas
-F1            Toggle notification sounds
-Enter         Toggle Canvas mode
-Z/Y           Undo/Redo
-D             Toggle Browser <-- use for file browsing & bookmarking
-Decimal       Click through canvas (works on canvas mode only)|
+Escape		If canvas is ON then switch it OFF, otherwise quit app
+F2		Shows recently handled files, `ctrl+C` clear recent list
+F5		Refresh Canvas
+F1		Toggle notification sounds
+Enter		Toggle Canvas mode
+Z/Y		Undo/Redo
+D		Toggle Browser <-- use for file browsing & bookmarking
+Decimal		Click through canvas (works on canvas mode only)|
 ```
 
 
 ### Canvas Controls
 
 ```
-Arrow Keys        pan by screen width or height
-	+Shift        pan by 100 pixels
-	+Alt          pan to align the canvas to the edge of the screen
-	+Control      resize canvas
+Arrow Keys		pan by screen width or height
+	+Shift	 pan by 100 pixels
+	+Alt	 pan to align the canvas to the edge of the screen
+	+Control resize canvas
 
 Keys.Space              Show Overlay (fits the canvas in view - select view if canvas is very large)
 	+ Alt               Reset Pan
