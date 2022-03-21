@@ -66,20 +66,20 @@ D		Toggle Browser <-- use for file browsing & bookmarking
 ### Canvas Controls
 
 ```
-Arrow Keys	pan by screen width or height
- shift +	pan by 100 pixels
- alt +		pan to align the canvas to the edge of the screen
- ctrl +		resize canvas in choosen direction 
- 		 - (right,up to increase size in x,y direction)
-		 - (left,down to decrease size in x,y direction)
+Arrow Keys		pan by screen width or height
+ shift +		pan by 100 pixels
+ alt +			pan to align the canvas to the edge of the screen
+ ctrl +			resize canvas in choosen direction 
+ 		 	- (right,up to increase size in x,y direction)
+		 	- (left,down to decrease size in x,y direction)
 		 
 
-Space		Show Overlay (fits the canvas in view - select view if canvas is very large)
+Space			Show Overlay (fits the canvas in view - select view if canvas is very large)
  alt +			Reset Pan
  shift +		Clear Canvas
- ctrl + alt	Reset Canvas size to default (set values on settings page)
- ctrl +		Screenshot primary screen (quick screenshot)
- ctrl + shift +	Screenshot All screens (useful only when multiple display connected)
+ ctrl + alt		Reset Canvas size to default (set values on settings page)
+ ctrl +			Screenshot primary screen (quick screenshot)
+ ctrl + shift +		Screenshot All screens (useful only when multiple display connected)
 
 ```
 
@@ -94,7 +94,7 @@ Delete		* Deletes selected region
 ctrl + X	* Cuts selected region
 ctrl + C	* Copies selected region (only when the _selecting flag is on)          
 ctrl + V	* Paste image from clipboard (maintain size, uses one point to paste)
-shift + V		* Paste image from clipboard (re-sizeable, uses 2 points to paste)
+shift + V	* Paste image from clipboard (re-sizeable, uses 2 points to paste)
 ```
 
 
@@ -115,7 +115,7 @@ V	Import whatever is in the clipboard
 To Open files, simply drag-drop
 
 ```
-ctrl + W	Write changes on any files that were opened (drag-drop)
+ctrl + W		Write changes on any files that were opened (drag-drop)
 W			Close Image (set _opened flag to false)
 Reset pan		> Alt + W	to reset pan after closing
 Clear canvas		> shift + W	to clear canvas after closing
@@ -126,8 +126,8 @@ S			Save Canvas - Uses 3 flags
 ~ Manual Save		> Alt + S	to save manually at a selected location
 
 Space
- ctrl +		Screenshot primary screen (quick screenshot)
- ctrl + shift +	Screenshot All screens (useful only when multiple display connected)
+ ctrl +			Screenshot primary screen (quick screenshot)
+ ctrl + shift +		Screenshot All screens (useful only when multiple display connected)
 ```
 
 ### Editor Tools
@@ -143,17 +143,17 @@ I			itools.Ellipse
 K			itools.ColorPicker
 T			itools.Text 
 shift + T		Toggle pasting text from clipboard
-ctrl + T	Shows the text-box widget (for entering text)
-+/-		Changes the Width of the current itool . Markers, Shape or Eraser
+ctrl + T		Shows the text-box widget (for entering text)
++/-			Changes the Width of the current itool . Markers, Shape or Eraser
 ```
 
 ### Axis & Grid
 
 ```
 U			itools.AxisMarker for marking points on Axis & Grid 
-ctrl + U	Clear axis points (that were marked)
+ctrl + U		Clear axis points (that were marked)
 shift + U		Toggle axis visibility
-Alt + U		Toggle perpendicular drop (from marked points)
+Alt + U			Toggle perpendicular drop (from marked points)
 ```
 
 ___
