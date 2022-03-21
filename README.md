@@ -60,7 +60,6 @@ F1		Toggle notification sounds
 Enter		Toggle Canvas mode
 Z/Y		Undo/Redo
 D		Toggle Browser <-- use for file browsing & bookmarking
-Decimal		Click through canvas (works on canvas mode only)|
 ```
 
 
