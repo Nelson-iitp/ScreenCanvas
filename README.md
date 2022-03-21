@@ -37,6 +37,7 @@ ___
 
 ```
 Double-Click Icon	:	Toggle Canvas Overlay
+Left-Drag Icon		:	Move Icon
 Righ-Click Icon		:	Alt-menu
 Middle-Click Icon	:	Clear Canvas
 
